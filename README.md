@@ -1,4 +1,4 @@
-# ack portable - Instalación
+# ack portable for CTFs - Instalación
 ```
 mv ack.tgz /dev/shm
 tar -zxvf ack.tgz
